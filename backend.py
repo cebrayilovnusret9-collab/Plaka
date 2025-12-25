@@ -200,7 +200,7 @@ def ad_soyad_ara():
         'sonuclar': sonuclar,
         'yapimci': '@sukazatkinis',
         'telegram_kanal': '@f3system',
-        'not': 'Bu API sadece eğitim amaçlıdır.'
+        'not': 'Ozsoylar her yerde vip kalite :D.'
     })
 
 # İstatistik endpoint'i
